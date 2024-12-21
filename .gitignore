@@ -1,3 +1,4 @@
 .vscode/
 *.out
 venv/
+__pycache__/
